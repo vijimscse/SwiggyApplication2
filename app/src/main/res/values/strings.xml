@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SwiggyApplication</string>
+    <string name="response_failed">Oops! Something has gone wrong. Please try later!</string>
+    <string name="no_internet_connection">Please check your internet connection and try again!</string>Rating : %s/10
+    <string name="rupee_symbol">₹</string>
+    <string name="select_food">Select your food</string>
+    <string name="select">Select</string>
+
+</resources>
