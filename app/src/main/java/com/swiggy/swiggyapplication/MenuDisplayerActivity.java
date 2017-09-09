@@ -41,7 +41,7 @@ public class MenuDisplayerActivity extends AppCompatActivity implements VariantD
     private Toolbar mToolBar;
     private ProgressBar mProgressBar;
 
-    private int mGrpID = 0;
+    private int mGrpID;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
